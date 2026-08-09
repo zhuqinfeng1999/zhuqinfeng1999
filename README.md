@@ -49,15 +49,15 @@ My work studies how machines build reliable spatial understanding from **satelli
 
 ## Open research artifacts
 
-| Artifact | What it opens | Research signal |
-| :--- | :--- | :--- |
-| [`SO3UFormer`](https://github.com/zhuqinfeng1999/SO3UFormer) | Sphere-native panoramic dense prediction | `360° vision` `geometry` |
-| [`Awesome-Panoramic-Scene-Analysis`](https://github.com/zhuqinfeng1999/Awesome-Panoramic-Scene-Analysis) | Curated taxonomy and literature map | `survey` `research map` |
-| [`SemanticUrban`](https://github.com/YuanFangFF/SemanticUrban) | High-resolution urban terrestrial point clouds | `dataset` `3D perception` |
-| [`ClassWise-CRF`](https://github.com/zhuqinfeng1999/ClassWise-CRF) | Category-specific expert-network fusion | `remote sensing` `segmentation` |
-| [`IndoorMS`](https://github.com/zhuqinfeng1999/IndoorMS) | Indoor multispectral semantic segmentation | `dataset` `multimodal` |
-| [`WasteMS`](https://github.com/zhuqinfeng1999/WasteMS) | Lakeside-waste multispectral benchmark | `environment` `multispectral` |
-| [`Samba`](https://github.com/zhuqinfeng1999/Samba) · [`Seg-LSTM`](https://github.com/zhuqinfeng1999/Seg-LSTM) | State-space and recurrent models for Earth observation | `Mamba` `xLSTM` |
+| Artifact | Research scope |
+| :--- | :--- |
+| [`SO3UFormer`](https://github.com/zhuqinfeng1999/SO3UFormer) | Sphere-native panoramic dense prediction<br><sub>`360° vision` · `geometry`</sub> |
+| [`Panoramic Scene Analysis`](https://github.com/zhuqinfeng1999/Awesome-Panoramic-Scene-Analysis) | Curated taxonomy and literature map<br><sub>`survey` · `research map`</sub> |
+| [`SemanticUrban`](https://github.com/YuanFangFF/SemanticUrban) | High-resolution urban terrestrial point clouds<br><sub>`dataset` · `3D perception`</sub> |
+| [`ClassWise-CRF`](https://github.com/zhuqinfeng1999/ClassWise-CRF) | Category-specific expert-network fusion<br><sub>`remote sensing` · `segmentation`</sub> |
+| [`IndoorMS`](https://github.com/zhuqinfeng1999/IndoorMS) | Indoor multispectral semantic segmentation<br><sub>`dataset` · `multimodal`</sub> |
+| [`WasteMS`](https://github.com/zhuqinfeng1999/WasteMS) | Lakeside-waste multispectral benchmark<br><sub>`environment` · `multispectral`</sub> |
+| [`Samba`](https://github.com/zhuqinfeng1999/Samba) · [`Seg-LSTM`](https://github.com/zhuqinfeng1999/Seg-LSTM) | State-space and recurrent models for Earth observation<br><sub>`Mamba` · `xLSTM`</sub> |
 
 ## Let’s connect
 
