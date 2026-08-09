@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Research coordinates</title>
+  <desc id="desc">Seven connected research directions centered on semantic scene understanding.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08121a"/><stop offset="1" stop-color="#0c171f"/></linearGradient>
+    <radialGradient id="core"><stop stop-color="#7bd4da" stop-opacity=".22"/><stop offset="1" stop-color="#7bd4da" stop-opacity="0"/></radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="10"/></filter>
+    <clipPath id="frame"><rect width="1200" height="430" rx="24"/></clipPath>
+    <style>
+      .ui{font-family:Inter,Segoe UI,Arial,sans-serif}.mono{font-family:SFMono-Regular,Consolas,monospace;letter-spacing:1.5px}.edge{stroke:#83a9b1;stroke-opacity:.2;stroke-width:1.2;fill:none}.dash{stroke-dasharray:4 8}.box{fill:#0c1922;stroke:#83a9b1;stroke-opacity:.2}.num{fill:#7ed1d8}.kick{fill:#6f8791}.title{fill:#edf4f5}.pulse{transform-origin:center;animation:pulse 4s ease-in-out infinite}.d2{animation-delay:-1s}.d3{animation-delay:-2s}.d4{animation-delay:-3s}@keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}@media(prefers-reduced-motion:reduce){.pulse{animation:none}}
+    </style>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="430" fill="url(#bg)"/>
+    <circle cx="600" cy="222" r="210" fill="url(#core)"/>
+    <text x="42" y="48" class="mono" font-size="11" fill="#7fd4da">RESEARCH COORDINATES · 07 CONNECTED DIRECTIONS</text>
+    <text x="1158" y="48" class="mono" font-size="10" fill="#647b85" text-anchor="end">CLICK TO OPEN THE ATLAS ↗</text>
+
+    <g class="edge">
+      <path d="M300 120L515 206M900 120L685 206M300 310L515 238M900 310L685 238"/>
+      <path d="M475 96L565 186M725 96L635 186M600 337L600 264"/>
+      <path d="M300 120C470 40 730 40 900 120" class="dash"/>
+      <path d="M300 310C455 388 745 388 900 310" class="dash"/>
+    </g>
+
+    <g class="ui">
+      <g transform="translate(55 82)">
+        <rect width="280" height="78" rx="14" class="box"/>
+        <text x="18" y="25" class="mono num" font-size="10">01 · EARTH OBSERVATION</text><text x="18" y="55" class="title" font-size="20">Remote Sensing</text>
+        <circle cx="257" cy="22" r="5" fill="#77cbd2" class="pulse"/><circle cx="257" cy="22" r="13" fill="none" stroke="#77cbd2" stroke-opacity=".25"/>
+      </g>
+      <g transform="translate(865 82)">
+        <rect width="280" height="78" rx="14" class="box"/>
+        <text x="18" y="25" class="mono num" font-size="10">02 · SPATIAL INTELLIGENCE</text><text x="18" y="55" class="title" font-size="20">3D Computer Vision</text>
+        <circle cx="257" cy="22" r="5" fill="#72cbd7" class="pulse d2"/><circle cx="257" cy="22" r="13" fill="none" stroke="#72cbd7" stroke-opacity=".25"/>
+      </g>
+      <g transform="translate(340 57)">
+        <rect width="270" height="74" rx="14" class="box"/>
+        <text x="18" y="24" class="mono" fill="#9c96dc" font-size="10">03 · SPHERE-NATIVE</text><text x="18" y="52" class="title" font-size="19">Panoramic Vision</text>
+      </g>
+      <g transform="translate(590 57)">
+        <rect width="270" height="74" rx="14" class="box"/>
+        <text x="18" y="24" class="mono" fill="#81d2ad" font-size="10">04 · SENSOR SYNERGY</text><text x="18" y="52" class="title" font-size="19">Multimodal Fusion</text>
+      </g>
+
+      <g transform="translate(480 178)">
+        <circle cx="120" cy="44" r="91" fill="url(#core)"/>
+        <rect width="240" height="88" rx="18" fill="#10232d" stroke="#84d9df" stroke-opacity=".5"/>
+        <text x="18" y="28" class="mono" fill="#92e0e5" font-size="10">05 · DENSE PREDICTION</text>
+        <text x="18" y="59" class="title" font-size="21">Semantic Segmentation</text>
+        <path d="M183 56l13-12 13 8 14-17" fill="none" stroke="#8de1e6" stroke-width="2"/>
+        <circle cx="223" cy="35" r="4" fill="#9ce7eb" class="pulse d3"/>
+      </g>
+
+      <g transform="translate(55 272)">
+        <rect width="280" height="78" rx="14" class="box"/>
+        <text x="18" y="25" class="mono" fill="#df9d7c" font-size="10">06 · ROBUST LEARNING</text><text x="18" y="55" class="title" font-size="20">Data Augmentation</text>
+        <circle cx="257" cy="22" r="5" fill="#df9d7c" class="pulse d4"/>
+      </g>
+      <g transform="translate(865 272)">
+        <rect width="280" height="78" rx="14" class="box"/>
+        <text x="18" y="25" class="mono" fill="#d7b979" font-size="10">07 · NEURAL SYSTEMS</text><text x="18" y="55" class="title" font-size="20">Deep Learning</text>
+        <circle cx="257" cy="22" r="5" fill="#d7b979" class="pulse d2"/>
+      </g>
+      <g transform="translate(465 323)">
+        <rect width="270" height="66" rx="14" class="box"/>
+        <text x="135" y="27" text-anchor="middle" class="mono" fill="#718993" font-size="9">SHARED OBJECTIVE</text>
+        <text x="135" y="49" text-anchor="middle" class="title" font-size="15">Reliable scene understanding</text>
+      </g>
+    </g>
+    <rect x=".75" y=".75" width="1198.5" height="428.5" rx="23.25" fill="none" stroke="#b9d6dd" stroke-opacity=".13" stroke-width="1.5"/>
+  </g>
+</svg>

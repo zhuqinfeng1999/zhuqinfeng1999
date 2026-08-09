@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="92" viewBox="0 0 1200 92" role="img" aria-labelledby="title">
+  <title id="title">From pixels to points, from Earth to sphere</title>
+  <defs><linearGradient id="line"><stop stop-color="#6fcbd3" stop-opacity="0"/><stop offset=".2" stop-color="#6fcbd3" stop-opacity=".5"/><stop offset=".5" stop-color="#908adc" stop-opacity=".55"/><stop offset=".8" stop-color="#7bd2aa" stop-opacity=".5"/><stop offset="1" stop-color="#7bd2aa" stop-opacity="0"/></linearGradient><style>.ui{font-family:SFMono-Regular,Consolas,monospace;letter-spacing:2px}</style></defs>
+  <path d="M40 29H1160" stroke="url(#line)"/>
+  <g fill="#85d5da"><circle cx="220" cy="29" r="3"/><circle cx="600" cy="29" r="3" fill="#9993dd"/><circle cx="980" cy="29" r="3" fill="#82d2ad"/></g>
+  <text x="600" y="67" text-anchor="middle" class="ui" font-size="10" fill="#718893">FROM PIXELS TO POINTS · FROM EARTH TO SPHERE</text>
+</svg>
