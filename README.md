@@ -12,7 +12,7 @@
 
 ## Hello — I’m Qinfeng.
 
-I am currently visiting **[Duke Kunshan University](https://www.dukekunshan.edu.cn/)** under the guidance of **[Prof. Kaizhu Huang](https://sites.google.com/view/kaizhu-huang-homepage)**. I am a Ph.D. student at the **University of Liverpool** and **Xi’an Jiaotong-Liverpool University**, advised by **[Dr. Lei Fan](https://scholar.xjtlu.edu.cn/en/persons/LeiFan)** and **[Dr. Anh Nguyen](https://www.csc.liv.ac.uk/~anguyen/)**. I received an MRes in Computer Science from the University of Liverpool in 2023.
+I am currently visiting **[Duke (Kunshan) University](https://www.dukekunshan.edu.cn/)** under the guidance of **[Prof. Kaizhu Huang](https://sites.google.com/view/kaizhu-huang-homepage)**. I am a Ph.D. student at the **University of Liverpool** and **Xi’an Jiaotong-Liverpool University**, advised by **[Dr. Lei Fan](https://scholar.xjtlu.edu.cn/en/persons/LeiFan)** and **[Dr. Anh Nguyen](https://www.csc.liv.ac.uk/~anguyen/)**. I received an MRes in Computer Science from the University of Liverpool in 2023.
 
 My work studies how machines build reliable spatial understanding from **satellite and aerial imagery**, **360° panoramas**, **multispectral observations**, and **3D point clouds**. I am especially interested in representations that respect the geometry and sensing process of the world they model.
 
