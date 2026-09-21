@@ -7,7 +7,7 @@
   <a href="https://zhuqinfeng1999.github.io/research/"><b>Research Atlas ↗</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://zhuqinfeng1999.github.io/publications/"><b>Publications ↗</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://scholar.google.com.hk/citations?user=gG81gcUAAAAJ"><b>Google Scholar ↗</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://zhuqinfeng1999.github.io/assets/docs/Qinfeng_Zhu_CV_July_2026.pdf"><b>CV · July 2026 ↓</b></a>
+  <a href="https://zhuqinfeng1999.github.io/assets/docs/Qinfeng_Zhu_CV.pdf"><b>CV · September 2026 ↓</b></a>
 </p>
 
 ## Hello — I’m Qinfeng.
