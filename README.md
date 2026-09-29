@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Qinfeng Zhu — spatial intelligence research across remote sensing, panoramic vision and 3D perception">
+  <img src="./assets/hero.svg" width="100%" alt="Qinfeng Zhu — from computer vision to embodied intelligence: perceive, reason and act">
 </div>
 
 <p align="center">
@@ -12,21 +12,26 @@
 
 ## Hello — I’m Qinfeng.
 
-I am currently visiting **[Duke (Kunshan) University](https://www.dukekunshan.edu.cn/)** under the guidance of **[Prof. Kaizhu Huang](https://sites.google.com/view/kaizhu-huang-homepage)**. I am a Ph.D. student at the **University of Liverpool** and **Xi’an Jiaotong-Liverpool University**, advised by **[Dr. Lei Fan](https://scholar.xjtlu.edu.cn/en/persons/LeiFan)** and **[Dr. Anh Nguyen](https://www.csc.liv.ac.uk/~anguyen/)**. I received an MRes in Computer Science from the University of Liverpool in 2023.
+I am currently a **research intern in embodied intelligence** at **[Duke (Kunshan) University](https://www.dukekunshan.edu.cn/)** (**September 2026–present**), working with **[Prof. Kaizhu Huang](https://sites.google.com/view/kaizhu-huang-homepage)** on **agentic robotics**.
 
-My work studies how machines build reliable spatial understanding from **satellite and aerial imagery**, **360° panoramas**, **multispectral observations**, and **3D point clouds**. I am especially interested in representations that respect the geometry and sensing process of the world they model.
+I am a Ph.D. student at the **University of Liverpool** and **Xi’an Jiaotong-Liverpool University**, advised by **[Dr. Lei Fan](https://scholar.xjtlu.edu.cn/en/persons/LeiFan)** and **[Dr. Anh Nguyen](https://www.csc.liv.ac.uk/~anguyen/)**. I received an MRes in Computer Science from the University of Liverpool in 2023.
 
-> **Current vector** &nbsp;·&nbsp; Seeking research internships in **2026** &nbsp;·&nbsp; Seeking full-time opportunities in academia or industry after graduating in **2027**
+My research is moving **from computer vision to embodied intelligence**: from understanding visual scenes to building agents that reason and act in the physical world. My work in **3D point clouds, panoramic vision, remote sensing and multispectral perception** provides the visual and geometric foundation for this next chapter.
 
-## Research coordinates
+> **2026** · Open to research internship opportunities.<br>
+> **2027** · Seeking full-time research opportunities in academia or industry after graduation.
+
+## From perception to action
 
 <a href="https://zhuqinfeng1999.github.io/research/">
-  <img src="./assets/research-atlas.svg" width="100%" alt="Research atlas connecting seven directions: remote sensing, 3D computer vision, panoramic vision, multimodal fusion, semantic segmentation, data augmentation and deep learning">
+  <img src="./assets/research-atlas.svg" width="100%" alt="Research trajectory: computer vision as the foundation, agentic robotics as current work, and WAM, VLA and dexterous manipulation as research directions">
 </a>
 
-<p align="center"><sub>EARTH OBSERVATION · SPHERE-NATIVE PERCEPTION · SPATIAL INTELLIGENCE · SENSOR FUSION · DENSE PREDICTION</sub></p>
+I am exploring **world–action models (WAM)**, **vision–language–action (VLA)** and **dexterous manipulation**: how agents anticipate physical consequences, ground instructions in action, and coordinate precise hand–object interaction. These are developing research directions; the publications below document my computer-vision foundations.
 
-## Selected research
+<p align="center"><a href="https://zhuqinfeng1999.github.io/explorer/"><b>Explore the interactive robotics studies ↗</b></a><br><sub>Robotic arm · Dexterous hand · VLA-style terminal · Idealized world dynamics<br>Illustrative scenes, not live learned policies or experimental results.</sub></p>
+
+## Selected research · the perception foundation
 
 <img src="./assets/research-highlights.svg" width="100%" alt="Visual overview of SemanticUrban, SO3UFormer and Panoramic Scene Understanding research">
 
@@ -59,9 +64,11 @@ My work studies how machines build reliable spatial understanding from **satelli
 | [`WasteMS`](https://github.com/zhuqinfeng1999/WasteMS) | Lakeside-waste multispectral benchmark<br><sub>`environment` · `multispectral`</sub> |
 | [`Samba`](https://github.com/zhuqinfeng1999/Samba) · [`Seg-LSTM`](https://github.com/zhuqinfeng1999/Seg-LSTM) | State-space and recurrent models for Earth observation<br><sub>`Mamba` · `xLSTM`</sub> |
 
+**[Spatialfolio — Interactive Academic Portfolio](https://github.com/zhuqinfeng1999/interactive-academic-portfolio)** · My reusable academic website template, with Embodied and Perception editions. [See it in action ↗](https://zhuqinfeng1999.github.io/)
+
 ## Let’s connect
 
-I welcome research collaborations, thoughtful conversations, and opportunities around spatial intelligence, Earth observation, panoramic perception, multimodal sensing, and 3D scene understanding.
+I welcome collaborations and opportunities in **embodied intelligence, agentic robotics, WAM, VLA and dexterous manipulation**, as well as computer vision that supports reliable perception and physical interaction.
 
 <p align="center">
   <a href="mailto:zhuqinfeng1999@gmail.com"><b>Email</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
@@ -70,4 +77,4 @@ I welcome research collaborations, thoughtful conversations, and opportunities a
   <a href="https://www.researchgate.net/profile/Qinfeng-Zhu-3"><b>ResearchGate</b></a>
 </p>
 
-<img src="./assets/signal.svg" width="100%" alt="From pixels to points, from Earth to sphere">
+<img src="./assets/signal.svg" width="100%" alt="From seeing the world to acting in it — perceive, reason, act">

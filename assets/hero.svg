@@ -1,92 +1,61 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
-  <title id="title">Qinfeng Zhu — Spatial Intelligence Research</title>
-  <desc id="desc">A research coordinate system connecting Earth observation, panoramic vision and 3D point-cloud perception.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Qinfeng Zhu — From vision to embodied intelligence</title>
+  <desc id="desc">A visual-to-action study: sensed geometry, an articulated robotic arm and a target cube, connected by a perception, reasoning and action loop.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#071019"/>
-      <stop offset="0.55" stop-color="#0a121a"/>
-      <stop offset="1" stop-color="#0d1821"/>
-    </linearGradient>
-    <radialGradient id="glowCyan"><stop stop-color="#76d7de" stop-opacity=".28"/><stop offset="1" stop-color="#76d7de" stop-opacity="0"/></radialGradient>
-    <radialGradient id="glowMint"><stop stop-color="#86d7b3" stop-opacity=".2"/><stop offset="1" stop-color="#86d7b3" stop-opacity="0"/></radialGradient>
-    <linearGradient id="terrain" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17313d"/><stop offset="1" stop-color="#0b1b25"/></linearGradient>
-    <pattern id="grid" width="28" height="18" patternUnits="userSpaceOnUse" patternTransform="skewX(-32)">
-      <path d="M28 0H0V18" fill="none" stroke="#7ecad1" stroke-opacity=".14" stroke-width="1"/>
-    </pattern>
-    <filter id="soft"><feGaussianBlur stdDeviation="12"/></filter>
-    <clipPath id="frame"><rect width="1200" height="400" rx="28"/></clipPath>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080e14"/><stop offset="1" stop-color="#10222e"/></linearGradient>
+    <radialGradient id="light"><stop stop-color="#6fa9c9" stop-opacity=".2"/><stop offset="1" stop-color="#6fa9c9" stop-opacity="0"/></radialGradient>
+    <linearGradient id="metal" x1="0" y1="0" x2="1" y2=".7"><stop stop-color="#354755"/><stop offset=".22" stop-color="#b5c8d5"/><stop offset=".43" stop-color="#f2f5f7"/><stop offset=".58" stop-color="#788e9f"/><stop offset="1" stop-color="#253743"/></linearGradient>
+    <linearGradient id="joint"><stop stop-color="#253d4c"/><stop offset=".55" stop-color="#101b23"/><stop offset="1" stop-color="#5e7b8e"/></linearGradient>
+    <linearGradient id="floor" x2="0" y2="1"><stop stop-color="#162b38"/><stop offset="1" stop-color="#0c1821"/></linearGradient>
+    <clipPath id="frame"><rect width="1200" height="420" rx="26"/></clipPath>
     <style>
-      .ui{font-family:Inter,Segoe UI,Arial,sans-serif}.mono{font-family:SFMono-Regular,Consolas,monospace;letter-spacing:2px}.display{font-family:Georgia,Times New Roman,serif}.muted{fill:#8fa4af}.line{stroke:#7595a2;stroke-opacity:.22}.node{transform-origin:center;animation:pulse 4.4s ease-in-out infinite}.node.b{animation-delay:-1.5s}.node.c{animation-delay:-3s}.particle{animation:travel 6s ease-in-out infinite}.particle.b{animation-delay:-2s}.particle.c{animation-delay:-4s}@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}@keyframes travel{0%,100%{transform:translateX(-8px);opacity:.25}50%{transform:translateX(8px);opacity:1}}@media(prefers-reduced-motion:reduce){.node,.particle{animation:none}}
+      .sans{font-family:Segoe UI,Arial,sans-serif}.mono{font-family:Consolas,monospace;letter-spacing:1.6px}.display{font-family:Georgia,Times New Roman,serif}.signal{animation:breathe 4s ease-in-out infinite}.next{animation-delay:-1.3s}.last{animation-delay:-2.6s}@keyframes breathe{0%,100%{opacity:.45}50%{opacity:1}}@media(prefers-reduced-motion:reduce){.signal{animation:none}}
     </style>
   </defs>
   <g clip-path="url(#frame)">
-    <rect width="1200" height="400" fill="url(#bg)"/>
-    <circle cx="1015" cy="100" r="260" fill="url(#glowCyan)"/>
-    <circle cx="770" cy="360" r="250" fill="url(#glowMint)"/>
-    <path d="M0 60H1200M0 340H1200" stroke="#b8d5dc" stroke-opacity=".035"/>
-    <g class="ui">
-      <text x="64" y="70" fill="#87d9df" font-size="13" class="mono">SPATIAL INTELLIGENCE · RESEARCH ATLAS</text>
-      <text x="64" y="146" fill="#f3f7f8" font-size="62" class="display">Qinfeng Zhu</text>
-      <text x="68" y="182" fill="#a9bbc3" font-size="21">朱钦峰 · Ph.D. Researcher</text>
-      <path d="M64 214H468" stroke="#d5e5e8" stroke-opacity=".17"/>
-      <text x="64" y="253" fill="#dce7ea" font-size="17">Machines that understand space</text>
-      <text x="64" y="282" fill="#dce7ea" font-size="17">from pixels, spheres, and points.</text>
-      <text x="64" y="333" fill="#78919d" font-size="11" class="mono">REMOTE SENSING · PANORAMIC VISION · 3D PERCEPTION</text>
+    <rect width="1200" height="420" fill="url(#bg)"/>
+    <ellipse cx="936" cy="187" rx="300" ry="268" fill="url(#light)"/>
+    <path d="M598 48V370" stroke="#b4d5e7" stroke-opacity=".12"/>
+    <text x="58" y="67" fill="#a9ddea" font-size="13" class="mono">VISION → REASONING → ACTION</text>
+    <text x="55" y="152" fill="#f1f5f7" font-size="68" class="display">Qinfeng Zhu</text>
+    <text x="59" y="191" fill="#91a9b8" font-size="19" class="sans">朱钦峰 · Ph.D. Researcher</text>
+    <text x="57" y="270" fill="#dce8ee" font-size="37" class="display">From vision to</text>
+    <text x="57" y="315" fill="#a9ddea" font-size="39" font-style="italic" class="display">embodied intelligence.</text>
+    <text x="59" y="373" fill="#9cb1bf" font-size="12" class="mono">DUKE (KUNSHAN) UNIVERSITY · RESEARCH INTERN</text>
+
+    <!-- Conceptual articulated mechanism; not a hardware or experimental claim. -->
+    <g fill="none" stroke="#8bbfd3" stroke-opacity=".17">
+      <path d="M672 273L952 350 1148 276 870 215Z" fill="url(#floor)"/>
+      <path d="M717 256L998 333M765 237L1047 314M814 225L1097 295M725 287L920 231M790 305L984 248M855 324L1050 267"/>
+      <path d="M711 220C698 106 830 63 951 86" stroke-dasharray="4 7"/>
+      <path d="M1065 200C1152 258 1090 349 994 343" stroke-dasharray="4 7"/>
     </g>
-
-    <g transform="translate(560 24)">
-      <path d="M67 281L365 343 599 249 303 196Z" fill="url(#terrain)" stroke="#72c7cf" stroke-opacity=".24"/>
-      <path d="M67 281L365 343 599 249 303 196Z" fill="url(#grid)" opacity=".75"/>
-      <g fill="none" class="line">
-        <path d="M127 120C230 25 419 18 539 91"/>
-        <path d="M154 110C257 61 395 61 512 108" stroke-dasharray="4 8"/>
-        <path d="M281 201C333 150 420 137 485 176"/>
+    <g transform="translate(692 187)" stroke="#a9ddea" fill="#a9ddea">
+      <path d="M-11 -29V-40H0M54 -40H65V-29M-11 30V41H0M54 41H65V30" fill="none" stroke-opacity=".5"/>
+      <g stroke="none" class="signal">
+        <circle cx="13" cy="-23" r="2"/><circle cx="27" cy="-19" r="2"/><circle cx="40" cy="-12" r="2"/>
+        <circle cx="-1" cy="-12" r="2"/><circle cx="13" cy="-5" r="2"/><circle cx="27" cy="1" r="2"/><circle cx="40" cy="8" r="2"/>
+        <circle cx="-1" cy="9" r="2"/><circle cx="13" cy="16" r="2"/><circle cx="27" cy="22" r="2"/>
       </g>
-
-      <g transform="translate(84 69)">
-        <path d="M0 20L28 10 46 23 18 34Z" fill="#7dd4db" fill-opacity=".16" stroke="#8de0e6" stroke-opacity=".7"/>
-        <path d="M23 13L27 0M17 5L37 2" stroke="#8de0e6" stroke-width="2"/>
-        <path d="M-10 15L6 20M42 18L58 23" stroke="#8de0e6"/>
-        <circle cx="27" cy="0" r="2" fill="#d6f5f7"/>
-      </g>
-      <text x="79" y="126" fill="#7f99a4" font-size="9" class="mono">EARTH OBSERVATION</text>
-
-      <g transform="translate(390 68)" fill="none">
-        <circle cx="63" cy="63" r="58" fill="#7471bd" fill-opacity=".08" stroke="#9d98e8" stroke-opacity=".55"/>
-        <ellipse cx="63" cy="63" rx="58" ry="22" stroke="#aaa6ec" stroke-opacity=".38"/>
-        <ellipse cx="63" cy="63" rx="24" ry="58" stroke="#aaa6ec" stroke-opacity=".34"/>
-        <path d="M9 43C34 54 86 54 117 42M9 83C38 72 89 72 117 84" stroke="#aaa6ec" stroke-opacity=".22"/>
-      </g>
-      <text x="409" y="205" fill="#8c89c9" font-size="9" class="mono">SPHERE-NATIVE</text>
-
-      <g fill="#8ad8de" fill-opacity=".72">
-        <circle cx="230" cy="242" r="2"/><circle cx="246" cy="239" r="1.4"/><circle cx="262" cy="246" r="1.7"/><circle cx="278" cy="238" r="2.1"/><circle cx="294" cy="244" r="1.5"/>
-        <circle cx="213" cy="258" r="1.5"/><circle cx="232" cy="264" r="2"/><circle cx="251" cy="256" r="1.4"/><circle cx="270" cy="265" r="1.8"/><circle cx="291" cy="257" r="2"/><circle cx="309" cy="267" r="1.5"/>
-        <circle cx="203" cy="279" r="1.8"/><circle cx="221" cy="287" r="1.3"/><circle cx="243" cy="279" r="2.1"/><circle cx="265" cy="289" r="1.4"/><circle cx="287" cy="280" r="1.8"/><circle cx="316" cy="286" r="2"/>
-        <circle cx="325" cy="248" r="1.5"/><circle cx="340" cy="260" r="2"/><circle cx="346" cy="278" r="1.4"/>
-      </g>
-      <g stroke="#8ad8de" stroke-opacity=".2"><path d="M213 258L243 279 270 265 309 267M230 242L251 256 278 238 291 257 325 248M221 287L265 289 287 280 340 260"/></g>
-      <text x="228" y="319" fill="#7398a4" font-size="9" class="mono">3D POINTS</text>
-
-      <g transform="translate(320 181)">
-        <circle r="49" fill="url(#glowCyan)"/>
-        <circle r="22" fill="#0b1720" stroke="#83dbe1" stroke-width="1.5"/>
-        <circle r="6" fill="#9ce9ee" class="node"/>
-        <circle r="13" fill="none" stroke="#85dce2" stroke-opacity=".5" class="node b"/>
-      </g>
-      <text x="255" y="185" fill="#edf8f8" font-size="11" class="mono">SPATIAL</text>
-      <text x="255" y="202" fill="#edf8f8" font-size="11" class="mono">INTELLIGENCE</text>
-
-      <g fill="#b7eef1">
-        <circle cx="204" cy="117" r="3" class="particle"/>
-        <circle cx="339" cy="76" r="2.5" class="particle b"/>
-        <circle cx="510" cy="116" r="3" class="particle c"/>
-      </g>
-      <g class="node c">
-        <circle cx="165" cy="221" r="5" fill="#89d8b5"/><circle cx="165" cy="221" r="15" fill="none" stroke="#89d8b5" stroke-opacity=".26"/>
-        <circle cx="521" cy="258" r="5" fill="#df9b78"/><circle cx="521" cy="258" r="15" fill="none" stroke="#df9b78" stroke-opacity=".24"/>
-      </g>
+      <path d="M53 0H103" stroke-dasharray="3 6" stroke-opacity=".45"/>
     </g>
-    <rect x=".75" y=".75" width="1198.5" height="398.5" rx="27.25" fill="none" stroke="#b9d6dd" stroke-opacity=".14" stroke-width="1.5"/>
+    <ellipse cx="1011" cy="314" rx="65" ry="15" fill="#03090e" opacity=".7"/>
+    <path d="M967 296L1011 281 1057 296V310L1011 326 967 310Z" fill="url(#metal)" stroke="#abc4d1" stroke-opacity=".45"/>
+    <path d="M988 299L978 240 1009 225 1031 246 1023 298Z" fill="url(#metal)" stroke="#d3e2e9" stroke-opacity=".45"/>
+    <path d="M1000 241L961 127" stroke="#0a151d" stroke-width="45" stroke-linecap="round"/>
+    <path d="M1000 241L961 127" stroke="url(#metal)" stroke-width="39" stroke-linecap="round"/>
+    <path d="M965 124L858 164" stroke="#0a151d" stroke-width="40" stroke-linecap="round"/>
+    <path d="M965 124L858 164" stroke="url(#metal)" stroke-width="34" stroke-linecap="round"/>
+    <path d="M858 164L843 222" stroke="url(#metal)" stroke-width="27" stroke-linecap="round"/>
+    <g fill="url(#joint)" stroke="#c0d5e0" stroke-width="2"><circle cx="1000" cy="242" r="22"/><circle cx="963" cy="126" r="24"/><circle cx="858" cy="164" r="20"/></g>
+    <g fill="none" stroke="#7495a9" stroke-width="1.5"><circle cx="1000" cy="242" r="13"/><circle cx="963" cy="126" r="15"/><circle cx="858" cy="164" r="11"/></g>
+    <path d="M833 220L853 225 850 241 829 236Z" fill="url(#metal)"/>
+    <path d="M831 237L824 252 830 259M848 241L846 257 837 261" fill="none" stroke="#c6d9e3" stroke-width="5" stroke-linejoin="round"/>
+    <g transform="translate(838 293)"><ellipse rx="36" ry="11" fill="#9fcbd9" opacity=".08"/><path d="M-19 -23L0 -32 20 -22 0 -13Z" fill="#e8c69a"/><path d="M-19 -23V-2L0 8V-13Z" fill="#b58e61"/><path d="M0 -13L20 -22V-1L0 8Z" fill="#d2ab79"/><path d="M-28 -4V7L-16 13M17 12L29 5V-6" stroke="#a9ddea" fill="none" opacity=".7"/></g>
+    <circle cx="788" cy="187" r="3" fill="#a9ddea" class="signal next"/><circle cx="1064" cy="200" r="3" fill="#dfb38b" class="signal last"/>
+    <text x="691" y="378" fill="#8facbc" font-size="11" class="mono">PERCEIVE</text>
+    <path d="M774 374H829M929 374H983" stroke="#5f869b"/><path d="M824 370L829 374 824 378M978 370L983 374 978 378" fill="none" stroke="#8cb3c5"/>
+    <text x="844" y="378" fill="#bddae8" font-size="11" class="mono">REASON</text><text x="1001" y="378" fill="#dfb38b" font-size="11" class="mono">ACT</text>
+    <rect x=".75" y=".75" width="1198.5" height="418.5" rx="25.25" fill="none" stroke="#c2dde9" stroke-opacity=".15" stroke-width="1.5"/>
   </g>
 </svg>
