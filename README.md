@@ -12,7 +12,7 @@
 
 ## Hello — I’m Qinfeng.
 
-I am currently a **research intern in embodied intelligence** at **[Duke (Kunshan) University](https://www.dukekunshan.edu.cn/)** (**September 2026–present**), working with **[Prof. Kaizhu Huang](https://sites.google.com/view/kaizhu-huang-homepage)** on **agentic robotics**.
+I am currently a **research intern in embodied intelligence** at **[Duke University (based Kunshan)](https://www.dukekunshan.edu.cn/)** (**September 2026–present**), working with **[Prof. Kaizhu Huang](https://sites.google.com/view/kaizhu-huang-homepage)** on **agentic robotics**.
 
 I am a Ph.D. student at the **University of Liverpool** and **Xi’an Jiaotong-Liverpool University**, advised by **[Dr. Lei Fan](https://scholar.xjtlu.edu.cn/en/persons/LeiFan)** and **[Dr. Anh Nguyen](https://www.csc.liv.ac.uk/~anguyen/)**. I received an MRes in Computer Science from the University of Liverpool in 2023.
 
