@@ -33,7 +33,7 @@ I am exploring **world–action models (WAM)**, **vision–language–action (VL
 
 ## Selected research · the perception foundation
 
-<img src="./assets/research-highlights.svg" width="100%" alt="PanoPed featured first, followed by SemanticUrban, SO3UFormer and Panoramic Scene Understanding">
+<img src="./assets/research-highlights.svg?v=20261018" width="100%" alt="PanoPed featured first, followed by SemanticUrban, SO3UFormer and Panoramic Scene Understanding">
 
 1. **[PanoPed: Beyond Bounding Boxes for Sim-to-Real Panoramic Pedestrian Tracking](https://arxiv.org/abs/2610.08826)**<br>
    *arXiv preprint*, 2026 · Full-sphere tracking from simulation to real scenes · [Project](https://zhuqinfeng1999.github.io/PanoPed/) · [Code & data](https://github.com/zhuqinfeng1999/PanoPed) · [PDF](https://arxiv.org/pdf/2610.08826)
