@@ -18,6 +18,9 @@ I am a Ph.D. student at the **University of Liverpool** and **Xi’an Jiaotong-L
 
 My research is moving **from computer vision to embodied intelligence**: from understanding visual scenes to building agents that reason and act in the physical world. My work in **3D point clouds, panoramic vision, remote sensing and multispectral perception** provides the visual and geometric foundation for this next chapter.
 
+Feel free to contact me at **[zhuqinfeng1999@gmail.com](mailto:zhuqinfeng1999@gmail.com)** (**preferred**).<br>
+You can also reach me via my academic email: [qinfeng.zhu@duke.edu](mailto:qinfeng.zhu@duke.edu) · [q.zhu26@liverpool.ac.uk](mailto:q.zhu26@liverpool.ac.uk).
+
 > **2026** · Open to research internship opportunities.<br>
 > **2027** · Seeking full-time research opportunities in academia or industry after graduation.
 
@@ -81,7 +84,7 @@ I am exploring **world–action models (WAM)**, **vision–language–action (VL
 I welcome collaborations and opportunities in **embodied intelligence, agentic robotics, WAM, VLA and dexterous manipulation**, as well as computer vision that supports reliable perception and physical interaction.
 
 <p align="center">
-  <a href="mailto:zhuqinfeng1999@gmail.com"><b>Email</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:zhuqinfeng1999@gmail.com"><b>Email (preferred)</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/qinfengzhu/"><b>LinkedIn</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://orcid.org/0009-0002-4847-3555"><b>ORCID</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.researchgate.net/profile/Qinfeng-Zhu-3"><b>ResearchGate</b></a>
