@@ -33,29 +33,39 @@ I am exploring **world–action models (WAM)**, **vision–language–action (VL
 
 ## Selected research · the perception foundation
 
-<img src="./assets/research-highlights.svg" width="100%" alt="Visual overview of SemanticUrban, SO3UFormer and Panoramic Scene Understanding research">
+<img src="./assets/research-highlights.svg" width="100%" alt="PanoPed featured first, followed by SemanticUrban, SO3UFormer and Panoramic Scene Understanding">
 
-1. **[Towards accurate urban scene understanding using point clouds: The SemanticUrban dataset](https://www.sciencedirect.com/science/article/pii/S0957417426018610)**<br>
+1. **[PanoPed: Beyond Bounding Boxes for Sim-to-Real Panoramic Pedestrian Tracking](https://arxiv.org/abs/2610.08826)**<br>
+   *arXiv preprint*, 2026 · Full-sphere tracking from simulation to real scenes · [Project](https://zhuqinfeng1999.github.io/PanoPed/) · [Code & data](https://github.com/zhuqinfeng1999/PanoPed) · [PDF](https://arxiv.org/pdf/2610.08826)
+
+2. **[Towards accurate urban scene understanding using point clouds: The SemanticUrban dataset](https://www.sciencedirect.com/science/article/pii/S0957417426018610)**<br>
    *Expert Systems with Applications*, 2026 · **Co-first author** · [Dataset](https://zhuqinfeng1999.github.io/SemanticUrban/) · [Code](https://github.com/YuanFangFF/SemanticUrban)
 
-2. **[SO3UFormer: Learning Intrinsic Spherical Features for Rotation-Robust Panoramic Dense Prediction](https://arxiv.org/abs/2602.22867)**<br>
+3. **[SO3UFormer: Learning Intrinsic Spherical Features for Rotation-Robust Panoramic Dense Prediction](https://arxiv.org/abs/2602.22867)**<br>
    Under review, 2026 · Sphere-native panoramic modeling · [Project](https://zhuqinfeng1999.github.io/projects/so3uformer/) · [Code](https://github.com/zhuqinfeng1999/SO3UFormer)
 
-3. **[Panoramic Scene Understanding: A Survey from Distortion-Aware Engineering to Sphere-Native Modeling](https://arxiv.org/abs/2606.27745)**<br>
+4. **[Panoramic Scene Understanding: A Survey from Distortion-Aware Engineering to Sphere-Native Modeling](https://arxiv.org/abs/2606.27745)**<br>
    Under review, 2026 · A structured map of panoramic perception · [Research map](https://zhuqinfeng1999.github.io/projects/panoramic-scene-understanding/) · [Repository](https://github.com/zhuqinfeng1999/Awesome-Panoramic-Scene-Analysis)
 
-4. **[ClassWise-CRF: Category-Specific Fusion for Enhanced Semantic Segmentation of Remote Sensing Imagery](https://doi.org/10.1016/j.neunet.2025.108485)**<br>
+5. **[ClassWise-CRF: Category-Specific Fusion for Enhanced Semantic Segmentation of Remote Sensing Imagery](https://doi.org/10.1016/j.neunet.2025.108485)**<br>
    *Neural Networks*, 2026 · Category-aware expert fusion · [Code](https://github.com/zhuqinfeng1999/ClassWise-CRF)
 
-5. **[SwinMamba: A Hybrid Local-Global Mamba Framework for Enhancing Semantic Segmentation of Remotely Sensed Images](https://www.sciencedirect.com/science/article/pii/S105120042600148X)**<br>
+6. **[SwinMamba: A Hybrid Local-Global Mamba Framework for Enhancing Semantic Segmentation of Remotely Sensed Images](https://www.sciencedirect.com/science/article/pii/S105120042600148X)**<br>
    *Digital Signal Processing*, 2026 · Local-global state-space modeling · [DOI](https://doi.org/10.1016/j.dsp.2026.106029)
 
-<p align="right"><a href="https://zhuqinfeng1999.github.io/publications/"><b>Browse all 16 publications →</b></a></p>
+7. **[A generalised pre-training strategy for deep learning networks in semantic segmentation of remotely sensed images](https://link.springer.com/chapter/10.1007/978-3-032-22261-9_28)**<br>
+   *Computer Graphics International · LNCS*, 2026 · Pre-training for remote-sensing segmentation · [Preprint PDF](https://arxiv.org/pdf/2604.27704)
+
+8. **[From Landslide Conditioning Factors to Satellite Embeddings: Evaluating the Utilisation of Google AlphaEarth for Landslide Susceptibility Mapping using Deep Learning](https://arxiv.org/abs/2601.07268)**<br>
+   *arXiv preprint*, 2026 · Satellite embeddings for landslide susceptibility mapping
+
+<p align="right"><a href="https://zhuqinfeng1999.github.io/publications/"><b>Browse all 17 publications →</b></a></p>
 
 ## Open research artifacts
 
 | Artifact | Research scope |
 | :--- | :--- |
+| [`PanoPed`](https://github.com/zhuqinfeng1999/PanoPed) | Sim-to-real panoramic pedestrian tracking and the Sextant readout<br><sub>`dataset` · `360° tracking` · [Project website](https://zhuqinfeng1999.github.io/PanoPed/)</sub> |
 | [`SO3UFormer`](https://github.com/zhuqinfeng1999/SO3UFormer) | Sphere-native panoramic dense prediction<br><sub>`360° vision` · `geometry`</sub> |
 | [`Panoramic Scene Analysis`](https://github.com/zhuqinfeng1999/Awesome-Panoramic-Scene-Analysis) | Curated taxonomy and literature map<br><sub>`survey` · `research map`</sub> |
 | [`SemanticUrban`](https://github.com/YuanFangFF/SemanticUrban) | High-resolution urban terrestrial point clouds<br><sub>`dataset` · `3D perception`</sub> |
